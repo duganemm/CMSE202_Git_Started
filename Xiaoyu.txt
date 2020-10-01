@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct  1 11:33:22 2020
+
+@author: jia17
+"""
+My favorite food is boiled fish with pickled cabbage and chili.
